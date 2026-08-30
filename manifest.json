@@ -1,0 +1,17 @@
+{
+  "name": "Conquest Run",
+  "short_name": "ConquestRun",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#0f172a",
+  "theme_color": "#0f172a",
+  "description": "Jeu de course et de conquête territoriale",
+  "icons": [
+    {
+      "src": "https://images.emojiterra.com/google/android-11/512px/1f6e1.png",
+      "sizes": "192x192 512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
